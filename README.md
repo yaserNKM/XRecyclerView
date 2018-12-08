@@ -1,6 +1,6 @@
 # XRecyclerView
 a RecyclerView that implements pullrefresh , loadingmore and header featrues.you can use it like a standard RecyclerView.
-you don't need to implement a special adapter .qq 群478803619
+you don't need to implement a special adapter.
 Screenshots
 -----------
 ![demo](https://github.com/jianghejie/XRecyclerView/blob/master/art/demo.gif)
